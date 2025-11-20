@@ -12,7 +12,7 @@
 apt update & apt upgrade
 apt install git
 git clone https://github.com/TheNikeHades0/L-SMS
-cd enough-V2
+cd L-SMS
 python3 main.py
 ```
 
