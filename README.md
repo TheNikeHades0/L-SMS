@@ -1,4 +1,4 @@
-# Enough V2
+# L-MS
 
 <h2>Credits :https://github.com/TheNikeHades0/L-SMS</h2>
 
